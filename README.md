@@ -439,6 +439,4 @@ PING, SET, GET, DEL, INCR, DECR, EXISTS, ECHO, APPEND, RPUSH, LRANGE, RENAME, QU
 * réponses côté client
 * journalisation dans **Cle_Valeur.data**
 
----
 
-README.md prêt à copier-coller.
